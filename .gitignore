@@ -18,3 +18,13 @@
 *.aab
 *.unitypackage
 .DS_Store
+*.keystore
+*.jks
+*.obb
+*.mdb
+*.opendb
+*.VC.db
+[Ee]xportedObj/
+[Ii]l2cpp*/
+.vscode/
+sysinfo.txt
